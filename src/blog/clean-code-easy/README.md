@@ -1,5 +1,7 @@
 # Clean Code in JavaScript
 
+![Clean Code in JavaScript](https://scontent.fhan4-5.fna.fbcdn.net/v/t39.30808-6/423778853_921900672671435_4186191604180756254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHigwGEo_PbPnP9cFIM7Dp6JK5oYHQPP6EkrmhgdA8_oX9H9EaeGxiM0pudAx59X-G33rOVmdKpQUQvMo8p7z0z&_nc_ohc=JesmxujQ46cQ7kNvgErvoPc&_nc_ht=scontent.fhan4-5.fna&oh=00_AfD3TQcZFIaAcyjix1PA4sau4Ev4U5HSMYSvjPjeLLepsg&oe=66412E11)
+
 Clean code is essential for developing maintainable, efficient, and error-free software. It not only reflects the developer's professionalism but also significantly eases the maintenance and future development of the codebase. This guide dives into the principles of clean code specifically tailored for JavaScript developers.
 
 ## Introduction

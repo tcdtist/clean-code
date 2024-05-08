@@ -1,5 +1,7 @@
 # Viết Code Sạch trong JavaScript
 
+![Viết Code Sạch trong JavaScript](https://scontent.fhan4-5.fna.fbcdn.net/v/t39.30808-6/423778853_921900672671435_4186191604180756254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHigwGEo_PbPnP9cFIM7Dp6JK5oYHQPP6EkrmhgdA8_oX9H9EaeGxiM0pudAx59X-G33rOVmdKpQUQvMo8p7z0z&_nc_ohc=JesmxujQ46cQ7kNvgErvoPc&_nc_ht=scontent.fhan4-5.fna&oh=00_AfD3TQcZFIaAcyjix1PA4sau4Ev4U5HSMYSvjPjeLLepsg&oe=66412E11)
+
 Viết code sạch là điều cần thiết để phát triển phần mềm có thể bảo trì, hiệu quả và ít lỗi. Code sạch không chỉ phản ánh sự chuyên nghiệp của nhà phát triển mà còn giúp dễ dàng bảo trì và phát triển codebase trong tương lai. Hướng dẫn này sẽ đi sâu vào các nguyên tắc của việc viết code sạch, đặc biệt là cho các nhà phát triển JavaScript.
 
 ## Giới thiệu
